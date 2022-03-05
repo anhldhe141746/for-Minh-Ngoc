@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You",
+  titleHeader: "Hơi bị chiều luôn đấy nhé",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
-  buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
+    'Cái này là ý tưởng từ 1 cái trò tỏ tình của bọn con trai từ ngày xửa ngày xưa rồi,cụ thể cái tittle này sẽ là "Em đồng ý làm ny anh nhé hay gì đó"</br>Nên chắc em sẽ biết thôi</br>Tại anh không hay nghịch mấy cái này lắm, làm thì đơn giản</br>Mà ý tưởng thì khó</br>Hãy tha thứ cho tâm hồn nhạt nhẽo này',
+  buttonYes: "Đồng Ý(Chỉ cái này đứng im cho em click thôi)",
+  buttonNo: "Không! Còn lâu nhé.(không click được đâu)",
   titleModar: "Cảm ơn em vì đồng ý",
   descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "',
+    'Toi quá già cho những trò tỏ tình này rồi, Chúc Minh Ngọc có 1 ngày vui vẻ',
 };
